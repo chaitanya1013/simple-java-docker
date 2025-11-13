@@ -32,16 +32,13 @@ Before running the project, make sure you have installed:
 
 Run this command inside the project directory:
 
-```sh
+```
 docker build -t java-app .
 ▶️ Run the Docker Container
-sh
-Copy code
+
 docker run java-app
 Expected Output:
 
-sql
-Copy code
 Hello, Docker! Current date: Tue Nov 11 20:23:09 GMT 2025
 🌟 What you learn from this project
 How to write a simple Java program
@@ -57,12 +54,3 @@ Feel free to fork this repo and submit pull requests.
 
 📄 License
 This project is open source and available under the MIT License.
-
-yaml
-Copy code
-
-
-
-
-
-
