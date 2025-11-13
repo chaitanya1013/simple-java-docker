@@ -61,18 +61,6 @@ This project is open source and available under the MIT License.
 yaml
 Copy code
 
----
-
-### 🔥 Done!
-
-Paste that entire content inside `README.md` on GitHub and commit changes.
-
-If you also want to **push this README.md from AWS terminal**, I can show the commands too.
-
-Just say:
-
-➡️ *"How to push README using terminal"*
-
 
 
 
